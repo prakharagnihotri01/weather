@@ -1,10 +1,10 @@
 # Weather App
 
-A modern weather application built with React, TypeScript, and Vite. Features a beautiful UI with animations and real-time weather data.
+A modern weather application built with React, TypeScript, and Vite. Features a beautiful UI with real-time weather data from WeatherAPI.com.
 
 ## Deployment
 
-This application is deployed using GitHub Pages. You can access it at: https://prakharsinghrathore.github.io/weathet_1/
+This application is deployed using GitHub Pages. You can access it at: https://prakharagnihotri01.github.io/weather/
 
 ## Features
 
